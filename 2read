@@ -1,0 +1,4 @@
+#!/bin/bash
+read -p "enter value of A:" A
+read -p "enter value of B:" B
+
